@@ -62,4 +62,9 @@ form input{
     height: 35px;
     background-color: hsl(234, 29%, 20%);
     color: white;
+    cursor: pointer;
+}
+#button:hover{
+    background:linear-gradient(to right,hsl(347, 78%, 56%),hsl(22, 82%, 49%));
+    box-shadow:4px 4px 8px rgba(0, 0, 0, 0.2);
 }
